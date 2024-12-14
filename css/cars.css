@@ -140,6 +140,7 @@ button.btn-me {
 }
 button.btn-me:hover{
     border: 1px black solid;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 .container {
     margin-top: 20px;

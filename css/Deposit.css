@@ -128,7 +128,7 @@ body {
     color: #333;
     font-family: 'Arial', sans-serif;
     text-align: center;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 a{
